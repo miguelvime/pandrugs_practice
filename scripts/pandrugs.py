@@ -4,7 +4,7 @@ import requests
 import json
 
 # URL del endpoint público oficial
-api_url = "https://www.pandrugs.org/pandrugs-backend/api/analyze"
+api_url = "https://www.pandrugs.org/pandrugs-backend/api/vvariantanalysis/guest/"
 
 # 1. Carga el archivo VCF
 VCF = "data/data_grch38.vcf"

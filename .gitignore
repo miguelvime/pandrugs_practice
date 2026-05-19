@@ -1,1 +1,6 @@
 reference/
+scripts/
+.Rdata
+.Rhistory
+.informe1.docx
+.Rproj.user/
